@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "open_chrome.js",
-  "dependencies": {
-    "opn": "^5.1.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ansostudio/chropen/issues"
   },
-  "homepage": "https://github.com/ansostudio/chropen#readme"
+  "homepage": "https://github.com/ansostudio/chropen#readme",
+  "dependencies": {
+    "opn": "^5.1.0"
+  }
 }
